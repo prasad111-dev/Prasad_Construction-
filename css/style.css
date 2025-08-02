@@ -269,7 +269,7 @@ nav ul li a.active {
 
 /* Page Banner */
 .page-banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/main_baground.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../Images/main_baground.jpg') no-repeat center center/cover;
     height: 300px;
     display: flex;
     flex-direction: column;
@@ -313,7 +313,7 @@ nav ul li a.active {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/main_baground.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../Images/main_baground.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
@@ -1550,4 +1550,5 @@ footer {
     .page-banner h1 {
         font-size: 2rem;
     }
+
 }
